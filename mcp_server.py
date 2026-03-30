@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-mcp.server.py (추천 강화 버전)
+mcp.server.py
 
 기능
 - 전처리/매핑까지 반영된 CSV(mct_sample_with_persona_3_mapped_final.csv)를 로드
